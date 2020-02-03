@@ -2,7 +2,7 @@ const formatString = function(string) {
     const letters = string.split('');
     let i;
 
-    for (i = 0; i < letters.length; i += 1) {
+    for (let i = 0; i < letters.length; i += 1) {
       if (letters.length <= 40) {
       return string;}
 
