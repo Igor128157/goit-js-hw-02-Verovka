@@ -4,6 +4,8 @@ let total = 0;
 
 const numbers = [];
 
+let number;
+
 do {
   input = prompt("Введите любое число");
 
