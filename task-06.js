@@ -14,13 +14,13 @@ do {
   if (!Number.isNaN(+input)) {
     numbers.push(+input)
   }
-  
+
 } while (input !== null);
 
 if (numbers.length != 0) {
 
-  for (number of numbers) {
-  total += number;
+  for (let number of numbers) {
+  total += numbers;
   }
 }
 
