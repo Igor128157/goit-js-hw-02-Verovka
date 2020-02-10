@@ -20,7 +20,7 @@ do {
 if (numbers.length != 0) {
 
   for (let number of numbers) {
-  total += numbers;
+  total += number;
   }
 }
 
